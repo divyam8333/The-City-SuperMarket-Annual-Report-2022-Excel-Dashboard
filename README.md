@@ -14,9 +14,15 @@ Sample Questions of City SuperMarket Owner:-
 8) Highest selling category?, etc
 
 Sample Answers:
+
 2) March month got the highest sales and orders
+   
 3) Women are more likely to buy compared to men (~65%)
+   
 5) Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+   
 6) Adult age group (30-49 yrs) is max contributing (~50%)
+  
 7) Amazon, Flipkart and Myntra channels are max contributing (~80%)
+  
 8) Highest selling category is Set.
